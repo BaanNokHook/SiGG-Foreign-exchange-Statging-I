@@ -1,8 +1,12 @@
-// Copyright (c) 2016-2021 Duality Blockchain Solutions Developers
-// Copyright (c) 2014-2017 The Dash Core Developers
-// Distributed under the MIT/X11 software license, see the accompanying
-// file COPYING or http://www.opensource.org/licenses/mit-license.php.
-
+/**
+ * @author SiGG (Project::SiGG-Foreign exchange-Statging-I)
+ * @brief 
+ * @version 0.1
+ * @date 2022-12-06
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #include "spork.h"
 
 #include "base58.h"

@@ -1,6 +1,12 @@
-// Copyright (c) 2015 The Bitcoin Core developers
-// Distributed under the MIT software license, see the accompanying
-// file COPYING or http://www.opensource.org/licenses/mit-license.php.
+/**
+ * @author SiGG (Project::SiGG-Foreign exchange-Statging-I)
+ * @brief 
+ * @version 0.1
+ * @date 2022-12-06
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 
 #include "bench.h"
 
