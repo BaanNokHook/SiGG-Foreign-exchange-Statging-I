@@ -1,3 +1,13 @@
+/**
+ * @file country_currency.hpp
+ * @author SiGG (Project::SiGG-Foreign exchange-Statging-I)
+ * @brief 
+ * @version 0.1
+ * @date 2022-12-06
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #pragma once
 
 #include "country.h"
